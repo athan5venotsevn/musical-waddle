@@ -12,7 +12,7 @@ should include the protocol, e.g. `https://example.com`.
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fathan5venotsevn%2Fmusical-waddle&envs=TG_API_ID%2CTG_API_HASH%2CBOT_TOKEN%2CHOST&TG_API_IDDesc=Your+Telegram+API+ID.&TG_API_HASHDesc=Your+Telegram+API+hash.&BOT_TOKENDesc=from+t.me%2Fbotfather+itself&HOSTDesc=%28defaults+to+0.0.0.0%29+-+The+port+to+listen+at.&HOSTDefault=0.0.0.0)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fathan5venotsevn%2Fmusical-waddle&envs=TG_API_ID%2CTG_API_HASH%2CBOT_TOKEN%2CHOST%2CPUBLIC_URL&TG_API_IDDesc=Your+Telegram+API+ID.&TG_API_HASHDesc=Your+Telegram+API+hash.&BOT_TOKENDesc=from+t.me%2Fbotfather+itself&HOSTDesc=%28defaults+to+0.0.0.0%29+-+The+port+to+listen+at.&PUBLIC_URLDesc=Railway+app+URL&HOSTDefault=0.0.0.0)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/musical-waddle/tree/master)
 
